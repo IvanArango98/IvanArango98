@@ -4,11 +4,11 @@
 
 # :computer: Junior software developer :computer:
 
-### SKILLS 📋📌
+# SKILLS 📋📌
 
 <img src="https://img.shields.io/badge/%20-C%23-blue" /> <img src="https://img.shields.io/badge/Java-critical" /> <img src="https://img.shields.io/badge/JavaScript-important" /> <img src="https://img.shields.io/badge/Python-9cf" /> <img src="https://img.shields.io/badge/TSQL-informational" />
 
-### Herramientas ⌨️🔧📦🛠️
+# Herramientas ⌨️🔧📦🛠️
 
 <!--
 **IvanArango98/IvanArango98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
