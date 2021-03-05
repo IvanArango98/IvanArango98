@@ -6,9 +6,7 @@
 
 ### SKILLS 📋📌
 
-<img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" />
-<img src="https://img.shields.io/badge/JAVA -FF0000" /> <img src="https://img.shields.io/badge/ -C%23-green" /> <img src="https://img.shields.io/badge/ -VB%20.NET-blue" />
-<img src="https://img.shields.io/badge/ -Photoshop-blue" />
+<img src="https://img.shields.io/badge/%20-C%23-blue" /> 
 
 <!--
 **IvanArango98/IvanArango98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
