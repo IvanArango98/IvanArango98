@@ -6,7 +6,7 @@
 
 ### SKILLS 📋📌
 
-<img src="https://img.shields.io/badge/%20-C%23-blue" /> <img src="https://img.shields.io/badge/java-orange" />
+<img src="https://img.shields.io/badge/%20-C%23-blue" /> <img src="https://img.shields.io/badge/java-orange" /><img src="https://img.shields.io/badge/javascript-important" />
 
 
 <!--
