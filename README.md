@@ -1,6 +1,6 @@
-![](https://drive.google.com/file/d/1YKGNiebAGJTpCFSiM73R3EFsE34Yflfn/view?usp=sharing)
-
 ### Hi there 👋
+
+![](https://github.com/IvanArango98/IvanArango98/blob/main/web-design-concept-with-drawings.jpg)
 
 <!--
 **IvanArango98/IvanArango98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
