@@ -2,7 +2,9 @@
 
 ![](https://github.com/IvanArango98/IvanArango98/blob/main/web-design-concept-with-drawings.jpg)
 
-### :computer: Junior software developer :computer:
+# :computer: Junior software developer :computer:
+
+### SKILLS 📋
 
 <!--
 **IvanArango98/IvanArango98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
