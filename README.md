@@ -10,7 +10,7 @@
 
 ### Herramientas ⌨️🔧📦🛠️
 - Visual Studio 2019 IDE (C#)
-- Visual Studio Code (JavaScript,React y MongoDb)
+- Visual Studio Code (Python, JavaScript, React y MongoDb)
 - Microsoft sql server management studio (TSQL)
 - Netbeans IDE (Java)
 - Cisco Packet Tracer
