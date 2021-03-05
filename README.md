@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://www.freepik.es/foto-gratis/concepto-diseno-web-dibujos_902906.htm#page=1&query=desarrollo%20web&position=20)
+![](https://drive.google.com/file/d/1YKGNiebAGJTpCFSiM73R3EFsE34Yflfn/view?usp=sharing)
 <!--
 **IvanArango98/IvanArango98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
