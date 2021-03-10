@@ -6,7 +6,7 @@
 
 # SKILLS 📋📌
 
-<img src="https://img.shields.io/badge/%20-C%23-blue" /> <img src="https://img.shields.io/badge/Java-critical" /> <img src="https://img.shields.io/badge/JavaScript-important" /> <img src="https://img.shields.io/badge/Python-9cf" /> <img src="https://img.shields.io/badge/TSQL-informational" /> <img src="https://img.shields.io/badge/MongoDb-green" /> <img src="https://img.shields.io/badge/React-success" /> <img src="https://img.shields.io/badge/Redes-9cf" />
+<img src="https://img.shields.io/badge/%20-C%23-blue" /> <img src="https://img.shields.io/badge/Java-critical" /> <img src="https://img.shields.io/badge/JavaScript-important" /> <img src="https://img.shields.io/badge/Python-9cf" /> <img src="https://img.shields.io/badge/TSQL-informational" /> <img src="https://img.shields.io/badge/MongoDb-green" /> <img src="https://img.shields.io/badge/React-success" />
 
 ### Herramientas ⌨️🔧📦🛠️
 - Visual Studio 2019 IDE (C#)
