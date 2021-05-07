@@ -40,9 +40,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IvanArango98&show_icons=true&include_all_commits=true&theme=tokyonight&line_height=27" alt="Ivan's GitHub stats" />
 </a> &nbsp;
 
-## "You can imagine it, you can program it!"
+## More about me...
 
- <div align="center">
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="110" height="110">
-</div>
+- 🔭 I’m currently working on SQL, Java, Python, C# and many others. 💻
+- 📊 I’m currently learning Full Stack Development and reinforcing knowledge of database and QA analysis. 🚀
+- 🤝 I’m looking to collaborate on any Open Source Project involving Java, C#, VB .NET, JavaScript, etc.
+- 💻 I have worked on C#, Java, Python, HTML/CSS, Javascript, Nodejs, Expressjs, MySQL, SQL Server, Git, Docker and many others.
+- 💬 Ask me about anything! I am happy to help and guide you, I can learn from you too.
+- ⭐ Show some ❤️ by starring ⭐ some of the repositories that you like or find interesting, I will be happy to do the same!
 
