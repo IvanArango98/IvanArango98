@@ -23,4 +23,8 @@ NOTE: Top languages does not indicate my skill level or something like that, it 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanArango98&layout=compact&theme=tokyonight" />
 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+<br><a href="https://github.com/IvanArango98/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IvanArango98&show_icons=true&include_all_commits=true&theme=tokyonight&line_height=27" alt="Ivan's GitHub stats" />
+</a> &nbsp;
+
 
