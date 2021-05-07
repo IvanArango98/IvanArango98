@@ -40,12 +40,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IvanArango98&show_icons=true&include_all_commits=true&theme=tokyonight&line_height=27" alt="Ivan's GitHub stats" />
 </a> &nbsp;
 
-## More about me...
+## Más Sobre mi...
 
-- 🔭 I’m currently working on SQL, Java, Python, C# and many others. 💻
-- 📊 I’m currently learning Full Stack Development and reinforcing knowledge of database and QA analysis. 🚀
-- 🤝 I’m looking to collaborate on any Open Source Project involving Java, C#, VB .NET, JavaScript, etc.
-- 💻 I have worked on C#, Java, Python, HTML/CSS, Javascript, Nodejs, Expressjs, MySQL, SQL Server, Git, Docker and many others.
-- 💬 Ask me about anything! I am happy to help and guide you, I can learn from you too.
-- ⭐ Show some ❤️ by starring ⭐ some of the repositories that you like or find interesting, I will be happy to do the same!
+- 🔭 Me gusta investigar e implementar nuevas ideas en mis proyectos personales de desarrollo web con ReactJs. 💻
+- 📊 Actualmente estoy aprendiendo MERN STACK Development y reforzando el conocimiento de bases de datos y análisis de datos. 🚀
+- 💻 He realizado proyectos con los lenguajes de programación java, javascript, c#, python, html y C.
+- :notebook_with_decorative_cover:  Tengo dominio del lenguaje transaccional SQL y se administrar bases de datos relacionales y no relacionales.
 
