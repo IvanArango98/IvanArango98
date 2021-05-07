@@ -30,7 +30,7 @@
 	</ul>
 </details>
 
-## My stats
+## Mis Estadisticas :trophy::chart_with_upwards_trend: :bar_chart:
 
 NOTE: Top languages does not indicate my skill level or something like that, it is a GitHub metric of which languages I have the most code on GitHub, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
