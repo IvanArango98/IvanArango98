@@ -40,4 +40,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IvanArango98&show_icons=true&include_all_commits=true&theme=tokyonight&line_height=27" alt="Ivan's GitHub stats" />
 </a> &nbsp;
 
+## "You can imagine it, you can program it!"
+
+ <div align="center">
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="110" height="110">
+</div>
 
