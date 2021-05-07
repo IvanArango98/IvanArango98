@@ -11,12 +11,13 @@
 ### Herramientas ⌨️🔧📦🛠️
 <details>
   <summary>Tools</summary>
-  <ul>
-- Visual Studio 2019 IDE (C#)
-- Visual Studio Code (Python, JavaScript, React y MongoDb)
-- Microsoft sql server management studio (TSQL)
-- Netbeans IDE (Java)
-- Cisco Packet Tracer
+  <ul>    
+  <li>Visual Studio 2019 IDE (C#)</li> 
+  <li>Visual Studio Code (Python, JavaScript, React y MongoDb)</li>
+  <li>Microsoft sql server management studio (TSQL)</li>
+  <li>Microsoft Power BI</li>
+  <li>Netbeans IDE (Java)</li>
+  <li>Cisco Packet Tracer</li>
   </ul>
 </details>
 
