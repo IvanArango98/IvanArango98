@@ -8,9 +8,9 @@
 
 <img src="https://img.shields.io/badge/%20-C%23-blue" /> <img src="https://img.shields.io/badge/Java-critical" /> <img src="https://img.shields.io/badge/JavaScript-important" /> <img src="https://img.shields.io/badge/Python-9cf" /> <img src="https://img.shields.io/badge/TSQL-informational" /> <img src="https://img.shields.io/badge/MongoDb-green" /> <img src="https://img.shields.io/badge/React-success" />
 
-### Herramientas ⌨️🔧📦🛠️
+### Herramientas y Tecnologías ⌨️🔧📦🛠️
 <details>
-  <summary>Tools</summary>
+  <summary>Herramientas</summary>
   <ul>    
   <li>Visual Studio 2019 IDE (C#)</li> 
   <li>Visual Studio Code (Python, JavaScript, React y MongoDb)</li>
@@ -19,6 +19,15 @@
   <li>Netbeans IDE (Java)</li>
   <li>Cisco Packet Tracer</li>
   </ul>
+</details>
+
+<details>
+	<summary>Sistemas Operativos</summary>
+	<ul>
+	<li>Windows</li>
+  <li>Ubuntu</li>  
+	<li>Kali Linux</li>
+	</ul>
 </details>
 
 ## My stats
