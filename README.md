@@ -2,7 +2,7 @@
 
 ![](https://github.com/IvanArango98/IvanArango98/blob/main/web-design-concept-with-drawings.jpg)
 
-# :computer: Junior software developer :computer:
+# :computer: Analista Programador :computer:
 
 ## Skills 📋📌
 
@@ -13,7 +13,7 @@
   <summary>Herramientas</summary>
   <ul>    
   <li>Visual Studio 2019 IDE (C#)</li> 
-  <li>Visual Studio Code (Python, JavaScript, React y MongoDb)</li>
+  <li>Visual Studio Code (Python, JavaScript, React, Flutter y MongoDb)</li>
   <li>Microsoft sql server management studio (TSQL)</li>
   <li>Microsoft Power BI</li>
   <li>Netbeans IDE (Java)</li>
